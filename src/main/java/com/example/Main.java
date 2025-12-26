@@ -14,11 +14,10 @@ public class Main extends Application {
         // Загружаем ResourceBundle на основе системного языка
         ResourceBundle bundle = ResourceBundle.getBundle("messages", Locale.getDefault());
 
-        // Инициализируем загрузчик FXML с ресурсом
         FXMLLoader loader = new FXMLLoader(getClass().getResource("/main.fxml"));
         loader.setResources(bundle);
 
-        // Устанавливаем сцену и показываем окно
+        // -Duser.language=en -Duser.country=US
         primaryStage.setScene(new Scene(loader.load(), 900, 700));
         primaryStage.setTitle(bundle.getString("app.title")); // Заголовок окна из ресурсов
         primaryStage.show();

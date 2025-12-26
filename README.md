@@ -16,8 +16,8 @@
 
 ## Скриншоты
 
-![Русская версия](screenshots/ru.png)
-![Английская версия](screenshots/en.png)
+![Русская версия приложения](screenshots/screenshot-ru.png)
+![Английская версия приложения](screenshots/screenshot-en.png)
 
 ## Как запустить
 1. Клонируйте репозиторий:
