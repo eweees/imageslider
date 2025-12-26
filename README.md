@@ -1,4 +1,3 @@
-<img width="899" height="92" alt="image" src="https://github.com/user-attachments/assets/f8605f70-0eff-449f-933b-e8f4a0e28325" /># Image Slider App
 
 Простое JavaFX-приложение для просмотра изображений в виде слайд-шоу.
 
