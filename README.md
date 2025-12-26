@@ -14,9 +14,21 @@
 - JavaFX 21
 - Maven
 
-## Скриншоты
-<img width="1556" height="1900" alt="image" src="https://github.com/user-attachments/assets/6219b604-a767-4300-bf03-48161f2282eb" />
 
+##UML-диаграммы для функции "Запуск слайд-шоу" (кнопка "Start Slideshow")
+- Use Case Diagram (Диаграмма вариантов использования) 
+<img width="556" height="635" alt="image" src="https://github.com/user-attachments/assets/abbb26c3-ad30-40d6-9e93-f4e2445ddc8a" />
+
+- Class Diagram (Диаграмма классов) 
+<img width="639" height="427" alt="image" src="https://github.com/user-attachments/assets/90c67e12-e207-45e3-95ee-3ac30ab0c2b2" />
+
+- Sequence Diagram (Диаграмма последовательностей)
+<img width="576" height="481" alt="image" src="https://github.com/user-attachments/assets/4fca93a3-592e-4fd4-9602-001ca2df8005" />
+
+
+
+
+## Скриншоты
 ![Русская версия](screenshots/screenshot-ru.png)
 ![Английская версия](screenshots/screenshot-en.png)
 
