@@ -15,12 +15,14 @@
 - Maven
 
 ## Скриншоты
+<img width="1556" height="1900" alt="image" src="https://github.com/user-attachments/assets/6219b604-a767-4300-bf03-48161f2282eb" />
 
 ![Русская версия](screenshots/screenshot-ru.png)
 ![Английская версия](screenshots/screenshot-en.png)
 
 ## Как запустить
-1. Клонируйте репозиторий:
+1. Клонируйте репозиторий:![Uploading image.png…]()
+
    ```bash
    git clone https://
 Откройте проект в IntelliJ IDEA
