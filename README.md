@@ -1,4 +1,4 @@
-# Image Slider App
+<img width="899" height="92" alt="image" src="https://github.com/user-attachments/assets/f8605f70-0eff-449f-933b-e8f4a0e28325" /># Image Slider App
 
 Простое JavaFX-приложение для просмотра изображений в виде слайд-шоу.
 
@@ -16,8 +16,9 @@
 
 ## Скриншоты
 
-![Русская версия](screenshots/ru.png)
-![Английская версия](screenshots/en.png)
+![Русская версия]()
+![Английская версия](<img width="899" height="92" alt="image" src="https://github.com/user-attachments/assets/991585f2-7aaf-43e7-9a19-cfc1aafae355" />
+)
 
 ## Как запустить
 1. Клонируйте репозиторий:
