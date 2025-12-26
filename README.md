@@ -29,7 +29,7 @@
 ЛокализацияЯзык приложения автоматически определяется по системному языку Windows (язык интерфейса). Для смены языка измените язык интерфейса Windows и перезапустите приложение.
 
 
-Контакты
-Автор: Николай
-Email: mailnikolaii@mail.ru
-GitHub: https://github.com/eweees
+## Контакты
+- Автор: Николай
+- Email: mailnikolaii@mail.ru
+- GitHub: https://github.com/eweees
